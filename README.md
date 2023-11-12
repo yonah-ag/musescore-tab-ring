@@ -1,7 +1,7 @@
 # MuseScore TAB Ring plugin
 Intelligent "Let Ring" plugin for fretted instruments in MuseScore
 
-![01](https://github.com/yonah-ag/musescore-tab-ring/blob/main/TAB Ring 1.0.0.png)
+![01](https://github.com/yonah-ag/musescore-tab-ring/blob/main/TABRing1.png)
 
 ### License
 
