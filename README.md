@@ -15,4 +15,4 @@ https://sites.google.com/view/tab-ring/
 
 ### Musescore Plugin Page
 
-https://musescore.org/en/plugins/
+https://musescore.org/en/project/takadimi-rhythm
