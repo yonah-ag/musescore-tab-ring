@@ -14,3 +14,5 @@ This program is free software; you can redistribute it or modify it under the te
 https://sites.google.com/view/tab-ring/
 
 ### Musescore Plugin Page
+
+https://musescore.org/en/plugins/
